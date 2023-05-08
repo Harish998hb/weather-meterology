@@ -1,11 +1,16 @@
 @import "https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css";
+@import url("https://fonts.googleapis.com/css2?family=Raleway&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@600&family=Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&family=Raleway&display=swap');
 
-*{
+* {
   padding: 0;
   margin: 0;
+  font-family: 'Raleway', sans-serif;
 }
 
-.default-container{
+.default-container {
   width: 90%;
   margin: auto;
 }
+
